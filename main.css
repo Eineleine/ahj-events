@@ -1,0 +1,2 @@
+body{align-items:center;justify-content:center}.game-container,body{display:flex;flex-wrap:wrap}.game-container{height:400px;justify-content:space-between;width:400px}.cell,.game-container{border:1px solid silver;box-sizing:border-box}.cell{cursor:url(c4d9f07db393a41c4054.png),pointer;height:25%;padding:7.5px;position:relative;width:25%}.goblin{height:85px;width:85px}
+/*# sourceMappingURL=main.css.map*/
