@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.game-container {
+    border: 1px solid silver;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.cell {
+    border: 1px solid silver;
+    width: 25%;
+    height: 25%;
+    box-sizing: border-box;
+    position: relative;
+    padding: 7.5px 7.5px;
+    cursor: url(../img/free-icon-target-6002269.png), pointer;
+}
+.goblin {
+    width: 85px;
+    height: 85px;
+}
